@@ -28,7 +28,7 @@ Success for Sprint 1 sets up a production-ready path for Sprint 2: users can log
 * Goals: Settle in quickly and make the most of his short stay; find practical information about short-term housing, local transportation, and meal options near campus; understand how to access Yale facilities such as libraries, gyms, and student services.  
 * Pain Points: Limited time and local connections; information mainly targets long-term students, forcing him to rely on scattered online sources.
 
-### *Problem Validation:*
+*Problem Validation:*
 
 * Newcomers repeatedly ask the same questions each term  
 * Answers live across Facebook, WhatsApp groups, and emails \- no canonical source.  
@@ -38,7 +38,7 @@ Success for Sprint 1 sets up a production-ready path for Sprint 2: users can log
 
 ![image1](https://github.com/she24731/madlibs-starter/blob/main/Current%20User%20Joureny.png)![image2](https://github.com/she24731/madlibs-starter/blob/main/Ideal%20User%20Journey.jpeg)
 
-### **3\) MVP Scope**
+**3\) MVP Scope**
 
 A web platform built with Django where users can log in, browse categorized content, search curated posts and trusted links, and submit posts for admin approval. Admins manage pending posts through a simple dashboard.
 
@@ -56,11 +56,11 @@ A web platform built with Django where users can log in, browse categorized cont
 3. ≥30 approved posts across categories by semester’s end.  
 4. \<5% outdated posts per month(Optional)
 
-### **4\) Wireframes/Mockups**
+**4\) Wireframes/Mockups**
 
 ![image3](https://github.com/she24731/madlibs-starter/blob/main/Wireframes.png)
 
-# **5\) Technical Architecture**
+**5\) Technical Architecture**
 
 *Framework*
 
@@ -93,7 +93,7 @@ This stack optimizes speed-to-MVP with low ops: Django gives us auth, forms, and
 * **E5(8 pts)**: Bookmark M2M \+ UI (5), Basic styling & layout (2), “Last updated” badge (1)  
 * **E6(5 pts)**: Dockerfile \+ Render config (3), GitHub Actions CI (2)
 
-### **7\) Sprint 2 Plan**
+**7\) Sprint 2 Plan**
 
 Sprint Goal (2 weeks): Deliver a functional MVP skeleton deployed to staging. Users can log in, browse categories, and view sample posts with role-based access (Reader, Contributor, Admin).
 
@@ -111,7 +111,7 @@ Team Capacity: 3 people × ≈ 9 points each \= 27 story points
 
 Deliverable for Sprint 2: A working staging deployment where all three roles can authenticate and view seeded posts in categories with stable UI and Dockerized deployment.
 
-### **7\) Team Documentation**
+**8\) Team Documentation**
 
 [https://github.com/she24731/madlibs-starter/blob/main/team-charter.md](https://github.com/she24731/madlibs-starter/blob/main/team-charter.md) 
 
