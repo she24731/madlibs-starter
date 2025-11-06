@@ -36,7 +36,7 @@ Success for Sprint 1 sets up a production-ready path for Sprint 2: users can log
 * Campus sites are authoritative but not student-opinionated; social threads are lively but noisy and ephemeral.  
 * Conclusion: A curated, student-maintained, admin-approved hub addresses the issues.
 
-![][image1]![][image2]
+![image1](https://github.com/she24731/madlibs-starter/blob/main/Current%20User%20Joureny.png)![image2](https://github.com/she24731/madlibs-starter/blob/main/Ideal%20User%20Journey.jpeg)
 
 ### **3\) MVP Scope**
 
@@ -58,7 +58,7 @@ A web platform built with Django where users can log in, browse categorized cont
 
 ### **4\) Wireframes/Mockups**
 
-![][image3]
+![image3](https://github.com/she24731/madlibs-starter/blob/main/Wireframes.png)
 
 # **5\) Technical Architecture**
 
