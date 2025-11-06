@@ -23,32 +23,32 @@ Team Charter
 * Conflict resolution process  
   * Scrum Master has the final decision rights.
 
-### **Definition of Ready:**
+**Definition of Ready:**
 
-### A user story is Ready when:
+A user story is Ready when:
 
-* ### Goal clear; user story statement present (“As a…, I want…, so that…”).
+* Goal clear; user story statement present (“As a…, I want…, so that…”).
 
-* ### Acceptance criteria (≥3) in Given/When/Then format
+* Acceptance criteria (≥3) in Given/When/Then format
 
-* ### Story points assigned
+* Story points assigned
 
-* ### Dependencies identified; designs/wireframes linked (if UI).
+* Dependencies identified; designs/wireframes linked (if UI).
 
-* ### Test approach noted (unit/functional).
+* Test approach noted (unit/functional).
 
-* ### Labelled user story; Priority set.
+* Labelled user story; Priority set.
 
-### **Definition of Done**
+**Definition of Done**
 
-### A story is Done when:
+A story is Done when:
 
-* ### All ACs pass; code merged to main; CI green.
+* All ACs pass; code merged to main; CI green.
 
-* ### Unit/functional tests added/updated.
+* Unit/functional tests added/updated.
 
-* ### Security basics (auth/perm/CSRF) respected.
+* Security basics (auth/perm/CSRF) respected.
 
-* ### Docs updated (README/CHANGELOG if needed).
+* Docs updated (README/CHANGELOG if needed).
 
-* ### Deployed to staging; PO/peer checked UI.
+* Deployed to staging; PO/peer checked UI.
